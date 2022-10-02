@@ -16,7 +16,7 @@ $ ./autogen.sh && make
 $ sudo make install 
 ```
 3. Modify the xmonad.hs to send properly formatted data to D-Bus . 
-Use this [xmonad.hs](https://github.com/rohithreddy/xmonad-log-applet-gnome/blob/main/xmonad.hs) as an example;
+Use this  [xmonad.hs](https://github.com/rohithreddy/xmonad-log-applet-gnome/blob/main/xmonad.hs)  as an example;
 
 
 
