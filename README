@@ -1,0 +1,26 @@
+# XMonad Log Applet for Gnome Flashback Session (libgnome-panel support)
+
+
+This applet is for XMonad users looking to use it with Gnome FlashBack Session 
+The newer gnome panel integration requires porting to libgnome-panel library for writing applets 
+
+
+## Installation
+
+1. configure and compile
+```
+$ ./autogen.sh && make 
+```
+2. install with make 
+```
+$ sudo make install 
+```
+3. Modify the xmonad.hs to send properly formatted data to D-Bus . Use this [xmonad.hs](xmonad.hs) as an example;
+
+
+
+For uninstalling run 
+```
+$ sudo make uninstall
+```
+
