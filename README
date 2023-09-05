@@ -1,5 +1,6 @@
 ## XMonad Log Applet for Gnome Flashback Session (libgnome-panel support)
 
+This works with latest gnome panel working on Ubuntu 23.04 Lunar with gnome-panel 3.46 
 
 This applet is for XMonad users looking to use it with Gnome FlashBack Session 
 The newer gnome panel integration requires porting to libgnome-panel library for writing applets 
